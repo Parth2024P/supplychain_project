@@ -44,8 +44,8 @@ The PostgreSQL container runs with these local development defaults:
 | --- | --- |
 | Database | `disaster_relief` |
 | User | `postgres` |
-| Password | `postgres` |
-| Host port | `5432` |
+| Password | `******` |
+| Host port | `*****` |
 
 Run the query test harness:
 
