@@ -132,16 +132,6 @@ For a suggested presentation flow, see [`dbms/docs/review-demo.md`](./dbms/docs/
 - Query planning and index evaluation with `EXPLAIN (ANALYZE, BUFFERS)`
 - Database roles and access-control exercises
 
-## Useful documentation
-
-- [`dbms/README.md`](./dbms/README.md) - detailed setup, Makefile targets, coursework workflow, and directory guide
-- [`dbms/PROJECT_ANALYSIS.md`](./dbms/PROJECT_ANALYSIS.md) - project architecture and current implementation notes
-- [`dbms/docs/er-diagram.md`](./dbms/docs/er-diagram.md) - entity-relationship model
-- [`dbms/docs/normalization.md`](./dbms/docs/normalization.md) - normalization and decomposition
-- [`dbms/docs/review-demo.md`](./dbms/docs/review-demo.md) - browser review and presentation guide
-- [`dbms/docs/transaction-log.md`](./dbms/docs/transaction-log.md) - transaction experiment worksheet
-- [`dbms/docs/index-study.md`](./dbms/docs/index-study.md) - indexing benchmark worksheet
-- [`dbms/docs/viva-notes.md`](./dbms/docs/viva-notes.md) - viva preparation notes
 
 ## License
 
